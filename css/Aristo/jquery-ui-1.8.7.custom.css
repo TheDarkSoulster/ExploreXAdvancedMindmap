@@ -454,7 +454,7 @@ button.ui-button-icons-only { width: 3.7em; }
 }
 .ui-button.ui-state-focus {
 	outline: none;
-	color: #1c4257; border-color: #7096ab;
+	color: #d0bcff; border-color: #8c8892; background-color: #2b2734;
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 }
