@@ -1,6 +1,4 @@
-
-If you have any doubt, feel free to contact me at cvazeem@gmail.com
-
+Open sourced advanced Mindmap View in the ExploreX App.
 # Requirements
 --
 A simple webserver and PHP (Version 5 or above) if you want to save public mindmaps. Otherwise PHP is not needed.
@@ -61,3 +59,7 @@ Use the following nginx configuration too. My webserver is 'nginx'. This configu
 	 rewrite ^.*$ googledrive.php permanent;
 	}
 /////
+
+
+Make the most out of this project!
+\ By Saket Dhulipala /
